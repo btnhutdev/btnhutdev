@@ -10,9 +10,10 @@
 
 </div>
 
-<img align="right" alt="Coding" width="250" height="250" src="https://testbytesnxtjsbackend.technoallianceindia.com/wp-content/uploads/2020/02/tenor-1.gif">
-
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+
+<img align="right" alt="Coding" width="200" height="200" src="https://testbytesnxtjsbackend.technoallianceindia.com/wp-content/uploads/2020/02/tenor-1.gif">
+
 - :credit_card: My name is **Bùi Trường Nhựt**. You can also call me **Nhut Bui Truong**, which is my English name.
 - 😄 Pronouns: He/Him
 - :earth_asia: I am living now in **Can Tho City, Viet Nam.**
@@ -26,7 +27,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
-<img align="right" alt="Coding" width="350" height="350" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="right" alt="Coding" width="200" height="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 <p align="center">
 
@@ -105,6 +106,7 @@
 - [![MuleSoft](https://img.shields.io/badge/MuleSoft-blue?logo=MuleSoft) MuleSoft Developer Certified](img/MuleSoftDeveloper.pdf)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+
 <p align="center">
   <a href="mailto:btnhut.dev@gmail.com" >
     <img align="center" alt="NhutBuiTruong | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
