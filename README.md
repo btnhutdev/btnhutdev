@@ -10,7 +10,7 @@
 
 </div>
 
-<img align="right" margin-top="50px;" alt="Coding" width="300" src="https://testbytesnxtjsbackend.technoallianceindia.com/wp-content/uploads/2020/02/tenor-1.gif">
+<img align="right" alt="Coding" width="250" height="250" src="https://testbytesnxtjsbackend.technoallianceindia.com/wp-content/uploads/2020/02/tenor-1.gif">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 - :credit_card: My name is **Bùi Trường Nhựt**. You can also call me **Nhut Bui Truong**, which is my English name.
@@ -26,7 +26,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
-<img align="right" alt="Coding" width="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="right" alt="Coding" width="350" height="350" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 <p align="center">
 
