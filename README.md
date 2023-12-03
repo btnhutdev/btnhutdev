@@ -122,6 +122,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+
 Credit: [btnhutdev](https://github.com/btnhutdev)
 
 Last Edited on: 01/12/2023
