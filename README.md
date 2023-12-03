@@ -20,7 +20,7 @@
 - 💻 I am a **fresher software developer** with a passion for **C#**. I am currently focused on **Web Applications** and **Desktop Applications**.
 - :sweat_smile: I am like coding, jogging, and watching horror movies.
 - :sunglasses: My quote is **"It's never too late - never too late to start over, never too late to be happy"**.
-- ⚡ Coding fact: "The first programmers were **women** - so don't ask why programming are so hard".
+- ⚡ Coding fact: "The first programmers were women".
 
 <br>
 
