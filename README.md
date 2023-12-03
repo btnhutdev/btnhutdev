@@ -14,13 +14,14 @@
 
 <img align="right" alt="Coding" width="150" height="150" src="https://testbytesnxtjsbackend.technoallianceindia.com/wp-content/uploads/2020/02/tenor-1.gif">
 
-- :credit_card: My name is **Bùi Trường Nhựt**. You can also call me **Nhut Bui Truong**, which is my English name.
-- 😄 Pronouns: He/Him
-- :earth_asia: I am living now in **Can Tho City, Viet Nam.**
-- :school: I am earned my bachelor's degree in **Software Engineering** from **Can Tho University of Technology**.
-- 💻 I am a **fresher software developer** with a passion for **C#**. I am currently focused on **Web Applications** and **Desktop Applications**.
-- :sweat_smile: I am like coding, jogging, and watching horror movies.
-- :sunglasses: My quote is **"To those who always strive, success may come sooner or later, but it will surely come."**
+- 💳 My name is **Bùi Trường Nhựt**. You can also call me **Nhut Bui Truong**, which is my English name.
+- ⚧️   He/Him
+- 🌏 I am living now in **Can Tho City, Viet Nam.**
+- 🏫 I am earned my bachelor's degree in **Software Engineering** from **Can Tho University of Technology**.
+- 🐞 I am a **fresher software developer** with a passion for **C#**.
+- 🧠 I am currently focused on **Web Applications** and **Desktop Applications**.
+- 💕 I am like coding, jogging, and watching horror movies.
+- 😎 My quote is **"To those who always strive, success may come sooner or later, but it will surely come."**
 - ⚡ Coding fact: "The first programmers were women".
 
 <br>
