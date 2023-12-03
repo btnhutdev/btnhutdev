@@ -19,7 +19,7 @@
 - :school: I am earned my bachelor's degree in **Software Engineering** from **Can Tho University of Technology**.
 - 💻 I am a **fresher software developer** with a passion for **C#**. I am currently focused on **Web Applications** and **Desktop Applications**.
 - :sweat_smile: I am like coding, jogging, and watching horror movies.
-- :sunglasses: My quote is **"It's never too late - never too late to start over, never too late to be happy"**.
+- :sunglasses: My quote is **"To those who always strive, success may come sooner or later, but it will surely come."**
 - ⚡ Coding fact: "The first programmers were women".
 
 <br>
