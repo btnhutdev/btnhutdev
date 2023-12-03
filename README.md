@@ -95,7 +95,7 @@
 
 ## <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='25' height='25'><b> Certificates</b>
 
-- [![Oracle](https://img.shields.io/badge/Oracle-%23FF0000?logo=oracle) Oracle](img/FoundationalCSharp.pdf)
+- [![Oracle](https://img.shields.io/badge/Oracle-%23FF0000?logo=oracle) Oracle Cloud Data Management Certified](img/FoundationalCSharp.pdf)
 - [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
   
 
