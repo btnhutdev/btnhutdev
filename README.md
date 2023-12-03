@@ -10,9 +10,9 @@
 
 </div>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b> About Me</b>
 
-<img align="right" alt="Coding" width="200" height="200" src="https://testbytesnxtjsbackend.technoallianceindia.com/wp-content/uploads/2020/02/tenor-1.gif">
+<img align="right" alt="Coding" width="150" height="150" src="https://testbytesnxtjsbackend.technoallianceindia.com/wp-content/uploads/2020/02/tenor-1.gif">
 
 - :credit_card: My name is **Bùi Trường Nhựt**. You can also call me **Nhut Bui Truong**, which is my English name.
 - 😄 Pronouns: He/Him
@@ -27,7 +27,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
-<img align="right" alt="Coding" width="200" height="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="right" alt="Coding" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 <p align="center">
 
@@ -98,6 +98,8 @@
 
 ## <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='25' height='25'><b> Certificates</b>
 
+<img align="right" alt="Coding" width="150" height="150" src="https://testbytesnxtjsbackend.technoallianceindia.com/wp-content/uploads/2020/02/6tXM-1.gif">
+
 - [![FoundationalCSharp](https://img.shields.io/badge/free%20Code%20Camp-black?logo=freecodecamp) Foundational CSharp](img/FoundationalCSharp.pdf)
 - [![Oracle](https://img.shields.io/badge/Oracle-%23FF0000?logo=oracle) Oracle Cloud Data Management Certified](img/OracleCloudDataManagement2023CertifiedFoundationsAssociate.pdf)
 - [![Oracle](https://img.shields.io/badge/Oracle-%23FF0000?logo=oracle) Oracle Cloud Infrastructure AI Certified](img/OracleCloudInfrastructure2023AICertifiedFoundationsAssociate.pdf)
@@ -106,16 +108,13 @@
 - [![MuleSoft](https://img.shields.io/badge/MuleSoft-blue?logo=MuleSoft) MuleSoft Developer Certified](img/MuleSoftDeveloper.pdf)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
-
 <p align="center">
   <a href="mailto:btnhut.dev@gmail.com" >
     <img align="center" alt="NhutBuiTruong | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-  
   <a href="https://web.facebook.com/profile.php?id=100011575898302" target="_blank">
       <img align="center" alt="NhutBuiTruong | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
-  
   <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
     <img align="center" alt="NhutBuiTruong | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
