@@ -64,6 +64,7 @@
 
     ![dotNET Core](https://img.shields.io/badge/.NET%20Core-purple?style=for-the-badge&logo=dotNET)
     ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-purple?style=for-the-badge&logo=dotnet)
+    ![Hangfire](https://img.shields.io/badge/Hangfire-purple?style=for-the-badge&logo=dotnet)
     ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-purple?style=for-the-badge&logo=dotnet)
     ![WPF](https://img.shields.io/badge/WPF-purple?style=for-the-badge&logo=dotnet)
 
