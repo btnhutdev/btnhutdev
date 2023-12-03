@@ -10,7 +10,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://testbytesnxtjsbackend.technoallianceindia.com/wp-content/uploads/2020/02/tenor-1.gif">
+<img align="right" margin-top="50px;" alt="Coding" width="300" src="https://testbytesnxtjsbackend.technoallianceindia.com/wp-content/uploads/2020/02/tenor-1.gif">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 - :credit_card: My name is **Bùi Trường Nhựt**. You can also call me **Nhut Bui Truong**, which is my English name.
@@ -25,6 +25,8 @@
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+
+<img align="right" alt="Coding" width="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 <p align="center">
 
@@ -131,8 +133,5 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-
 Credit: [btnhutdev](https://github.com/btnhutdev)
-
 Last Edited on: 01/12/2023
