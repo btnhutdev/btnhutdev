@@ -1,8 +1,12 @@
-<h1 align="center">Hi, I'm Nhut Bui Truong<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    Pleased to meet you
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Pleased+to+meet+you)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Hi,+I'm+Nhut+Bui+Truong)
 
 </div>
 
@@ -13,14 +17,14 @@
 - 😄 Pronouns: He/Him
 - :earth_asia: I am living now in **Can Tho City, Viet Nam.**
 - :school: I am earned my bachelor's degree in **Software Engineering** from **Can Tho University of Technology**.
-- 💻: I am a **fresher software developer** with a passion for **C#**. I am currently focused on **Web Applications** and **Desktop Applications**.
+- 💻 I am a **fresher software developer** with a passion for **C#**. I am currently focused on **Web Applications** and **Desktop Applications**.
 - :sweat_smile: I am like coding, jogging, and watching horror movies.
 - :sunglasses: My quote is **"It's never too late - never too late to start over, never too late to be happy"**.
-- 😄 Coding fact: "The first programmers were **women** - so don't ask why programming are so hard".
+- ⚡ Coding fact: "The first programmers were **women** - so don't ask why programming are so hard".
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
 <p align="center">
 
