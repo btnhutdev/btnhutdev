@@ -103,10 +103,15 @@
 <img align="right" alt="Coding" width="150" height="150" src="https://testbytesnxtjsbackend.technoallianceindia.com/wp-content/uploads/2020/02/6tXM-1.gif">
 
 - [![FoundationalCSharp](https://img.shields.io/badge/free%20Code%20Camp-black?logo=freecodecamp) Foundational CSharp](img/FoundationalCSharp.pdf)
+  
 - [![Oracle](https://img.shields.io/badge/Oracle-%23FF0000?logo=oracle) Oracle Cloud Data Management Certified](img/OracleCloudDataManagement2023CertifiedFoundationsAssociate.pdf)
+  
 - [![Oracle](https://img.shields.io/badge/Oracle-%23FF0000?logo=oracle) Oracle Cloud Infrastructure AI Certified](img/OracleCloudInfrastructure2023AICertifiedFoundationsAssociate.pdf)
+  
 - [![Oracle](https://img.shields.io/badge/Oracle-%23FF0000?logo=oracle) Oracle Cloud Infrastructure Certified](img/OracleCloudInfrastructure2023CertifiedFoundationsAssociate.pdf)
+  
 - [![Mendix](https://img.shields.io/badge/Mendix-green) Mendix Rapid Developer Certified](img/MendixRapidDeveloper.pdf)
+  
 - [![MuleSoft](https://img.shields.io/badge/MuleSoft-blue?logo=MuleSoft) MuleSoft Developer Certified](img/MuleSoftDeveloper.pdf)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
