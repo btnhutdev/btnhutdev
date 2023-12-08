@@ -78,12 +78,8 @@
     
 - 📑: Libraries and other technologies:
 
-    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000.svg?style=for-the-badge&logo=apachekafka)
-    ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=RabbitMQ)
     ![GraphQL](https://img.shields.io/badge/GraphQL-pink.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
-    ![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
     ![SignalR](https://img.shields.io/badge/SignalR-purple?style=for-the-badge&logo=SignalR)
-    ![gRPC](https://img.shields.io/badge/gRPC-blue?style=for-the-badge&logo=gRPC)
 
 - 💻 IDEs/Editors:
   
@@ -109,8 +105,6 @@
 - [![Oracle](https://img.shields.io/badge/Oracle-%23FF0000?logo=oracle) Oracle Cloud Infrastructure AI Certified](img/OracleCloudInfrastructure2023AICertifiedFoundationsAssociate.pdf)
   
 - [![Oracle](https://img.shields.io/badge/Oracle-%23FF0000?logo=oracle) Oracle Cloud Infrastructure Certified](img/OracleCloudInfrastructure2023CertifiedFoundationsAssociate.pdf)
-  
-- [![Mendix](https://img.shields.io/badge/Mendix-green) Mendix Rapid Developer Certified](img/MendixRapidDeveloper.pdf)
   
 - [![MuleSoft](https://img.shields.io/badge/MuleSoft-blue?logo=MuleSoft) MuleSoft Developer Certified](img/MuleSoftDeveloper.pdf)
 
